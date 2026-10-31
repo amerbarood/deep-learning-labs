@@ -12,4 +12,6 @@ The five labs from *Advanced Deep Learning (D7047E)*, Luleå University of Techn
 
 The course project from the same group is [nordic-vehicle-detection](https://github.com/amerbarood/nordic-vehicle-detection).
 
+Each lab repository is a runnable Python project for VS Code: a package with a `main.py` command-line entry point, `requirements.txt`, `.vscode` launch configurations and smoke tests; see the "Running the code" section of each README.
+
 The original notebooks are still in this repository's folders for reference.
