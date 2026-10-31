@@ -14,4 +14,4 @@ The course project from the same group is [nordic-vehicle-detection](https://git
 
 Each lab repository is a runnable Python project for VS Code: a package with a `main.py` command-line entry point, `requirements.txt`, `.vscode` launch configurations and smoke tests; see the "Running the code" section of each README.
 
-The original notebooks are still in this repository's folders for reference.
+The original notebooks have been retired; the full history, including the notebooks, is in [Gabmyr/D7047E-Labs-Group-7](https://github.com/Gabmyr/D7047E-Labs-Group-7).
